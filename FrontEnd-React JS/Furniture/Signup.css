@@ -1,0 +1,120 @@
+.rectangle99
+{
+    position: absolute;
+    height: 620px;
+    width: 510px;
+    left: 150px;
+    top: 80px;
+    
+    background: rgba(251, 250, 243, 0.56);
+}
+.fullsu99
+{
+    background: url("https://img.freepik.com/premium-photo/mockup-living-room-interior-with-sofa-empty-pastel-color-wall-background-3d-rendering_41470-4249.jpg");
+}
+.img99
+{
+    position: absolute;
+   
+    left: 0px;
+    padding-right: 0%;
+    padding-top: 0px;
+}
+.head99
+{
+    position: absolute;
+    font-size: 27px;
+    font-family: 'Times New Roman';
+    font-weight: 500;
+    left: 1000px;
+    top: 200px;
+    position: absolute;
+    color: rgb(40, 90, 11);
+}
+.form99
+{
+    position: absolute;
+    left: 954px;
+    top: 170px;
+    font-size: 23px;
+    width: 430px;
+    height: 600px;
+    border-radius: 6px;
+    box-shadow: 4px 4px 4px 4px rgba(255, 255, 255, 0.426);
+   background-color: rgba(255, 255, 255, 0.377);
+    
+}
+.form99 ::placeholder
+{
+   
+    font-size: 20px;   
+    color: rgba(0, 0, 0, 0.844);
+    
+}
+
+input[type=text99]
+{
+   
+    size: 22;
+    height: 31px;
+    font-size: 25px;
+    width: 158px;
+    border: none;
+} 
+input[type=text199]
+{
+   
+    size: 22;
+    height: 31px;
+    font-size: 25px;
+    width: 332px;
+    border: none;
+} 
+input[type=password99]
+{
+    size: 22;
+    height: 32px;
+    width: 332px;
+    font-size: 25px;
+    border: none;
+   
+    
+}
+.but99
+{
+    position: absolute;
+    
+   border: none;
+    background-color: rgb(40, 90, 11);
+    width: 180px;
+    height: 42px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 39px;
+    color: rgba(255, 255, 255, 0.904);
+    left: 120px;
+}
+.link33login
+{
+    position: absolute;
+    top: 470px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 25px;
+    padding-top: 35px;
+    text-align: center;
+    left: 25px;
+    width: 300px;
+    color: black;
+   
+}
+.loginhave span
+{
+    color: green;
+}
+.loginhave a{
+    text-decoration: none;
+}
