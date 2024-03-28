@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.im13
+{
+    position: absolute;
+  
+}
+.navbar
+{
+    width: 1600px;
+    height: 75px; 
+    margin: auto;
+    margin-left: 150px;
+   margin: 0;
+   background-color: transparent;
+   position: absolute;
+}
+
+.icon
+{
+    width: 200px;
+    height: 70px;
+    float: left;
+    margin-left: 110px;
+    font-size: 24px;
+}
+
+.head
+{
+    color: rgba(255, 255, 255, 0.986);
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    font-weight: lighter;
+    padding-top: 22px;
+    position: fixed;
+   
+}
+.menu
+{
+    width: 4000px;
+    float: left;
+    height: 70px;
+    position: fixed;
+    margin-left: 600px;
+    
+   
+}
+.menu ul
+{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.menu ul li
+{
+     list-style: none;
+     margin-left: 82px;
+     margin-top: 27px;
+     font-size: 17px;
+}
+.menu ul li a
+{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.986);
+    font-family: Arial;
+    font-weight: lighter;
+   
+    
+}
+.menu ul li a:hover
+{
+    color: skyblue;
+}
+
+    
+
+
+.content
+{
+    width: 1500px;
+    height: auto;
+    margin: auto;
+    color: white;
+   position: fixed;
+    
+    
+}
+.content .para
+{
+    font-size: 55px;
+   
+    margin-top: 10%;
+    margin-left: 22%;
+    letter-spacing: normal;
+    font-style: normal;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    line-height: 75px;
+}
+
+
+.shopbut
+{
+    
+    width: 130px;
+    font-size: 18px;
+    height: 40px;
+    background-color: transparent;
+    color: #fff;
+    border-color: white;
+    
+    box-shadow: 0 3px 4px rgba(255, 255, 255, 0.986);
+    position: absolute;
+    
+}
+.tranbut
+{
+    position: absolute;
+    margin-left: 46%;
+    margin-top: 22%;
+    position: fixed;
+}
+
+
+
+
+
+
+
+
+
+

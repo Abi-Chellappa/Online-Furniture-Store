@@ -1,0 +1,29 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.fullthank
+{
+    position: absolute;
+   left: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+.parathank
+{
+    position: absolute;
+    font-size: 70px;
+    top: 200px;
+    left: 420px;
+    width: 700px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.573);
+    color: white;
+    line-height: 75px;
+
+}
+.parathank span{
+    color: orangered;
+}
